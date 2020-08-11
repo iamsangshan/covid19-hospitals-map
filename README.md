@@ -1,6 +1,6 @@
 ﻿# covid19-hospitals-map
  
- I did this project as part of my learning and exploring in Javascript.
+ I did this project as part of my learning and exploring Javascript and Bootstrap framework.
  
  Working on doing the same in Python. 
  
